@@ -1,0 +1,73 @@
+[
+    {
+        "_id" : "5c8a1d5b0190b214360dc057",
+        "name" : "Nhat Minh",
+        "email" : "minh@gmail.com",
+        "role" : "admin",
+        "photo": "https://i.imgur.com/t9QwC5X.jpeg",
+        "location" : "Hung Yen",
+        "description" : "I'm a developer",
+        "occupation" : "Developer",
+        "password": "$2a$12$hP1h2pnNp7wgyZNRwPsOTeZuNzWBv7vHmsR3DT/OaPSUBQT.y0S.."
+    },
+    {
+        "_id" : "5c8a1d5b0190b214360dc058",
+        "name" : "Ian Malcolm",
+        "email" : "user1@example.com",
+        "role" : "user",
+        "location" : "Austin, TX",
+        "description" : "Should've stayed in the car.",
+        "occupation" : "Mathematician",
+        "password": "$2a$12$hP1h2pnNp7wgyZNRwPsOTeZuNzWBv7vHmsR3DT/OaPSUBQT.y0S.."
+    },
+    {
+        "_id" : "5c8a1d5b0190b214360dc059",
+        "name" : "Ellen Ripley",
+        "email" : "user2@example.com",
+        "role" : "user",
+        "location" : "Nostromo",
+        "description" : "Lvl 6 rating. Pilot.",
+        "occupation" : "Warrant Officer",
+        "password": "$2a$12$hP1h2pnNp7wgyZNRwPsOTeZuNzWBv7vHmsR3DT/OaPSUBQT.y0S.."
+    },
+    {
+        "_id" : "5c8a1d5b0190b214360dc060",
+        "name" : "Peregrin Took",
+        "email" : "user3@example.com",
+        "role" : "user",
+        "location" : "Gondor",
+        "description" : "Home is behind, the world ahead... And there are many paths to tread. Through shadow, to the edge of night, until the stars are all alight... Mist and shadow, cloud and shade, all shall fade... all... shall... fade... ",  
+        "occupation" : "Thain",
+        "password": "$2a$12$hP1h2pnNp7wgyZNRwPsOTeZuNzWBv7vHmsR3DT/OaPSUBQT.y0S.."
+    },
+    {
+        "_id" : "5c8a1d5b0190b214360dc061",
+        "name" : "Rey Kenobi",
+        "email" : "user4@example.com",
+        "role" : "user",
+        "location" : "D'Qar",
+        "description" : "Excited to be here!",
+        "occupation" : "Rebel",
+        "password": "$2a$12$hP1h2pnNp7wgyZNRwPsOTeZuNzWBv7vHmsR3DT/OaPSUBQT.y0S.."
+    },
+    {
+        "_id" : "5c8a1d5b0190b214360dc062",
+        "name" : "April Ludgate",
+        "email" : "user5@example.com",
+        "role" : "user",
+        "location" : "Pawnee, IN",
+        "description" : "Witch",
+        "occupation" : "Animal Control",
+        "password": "$2a$12$hP1h2pnNp7wgyZNRwPsOTeZuNzWBv7vHmsR3DT/OaPSUBQT.y0S.."
+    },
+    {
+        "_id" : "5c8a1d5b0190b214360dc063",
+        "name" : "John Ousterhout",
+        "email" : "user6@example.com",
+        "role" : "user",
+        "location" : "Stanford, CA",
+        "description" : "<i>CS142!</i>",
+        "occupation" : "Professor",
+        "password": "$2a$12$hP1h2pnNp7wgyZNRwPsOTeZuNzWBv7vHmsR3DT/OaPSUBQT.y0S.."
+    }
+]
